@@ -1,0 +1,8 @@
+i want create attractive , modern portfolio using react with vite , and tailwind css for styling @https://tailwindcss.com/docs/installation/using-vite 
+use this documentation for tailwind 
+i i want to connect this front end with my back end beacause all data sent from node express API @https://github.com/Dushan-456/Dushan-portfolio-Backend 
+
+this is my back end so create a modern portfolio dont create admin dashbord part i will create that as other repo if you want any details before deleloping plz ask 
+@https://dushanportfolio.textaworld.com/ 
+
+use this as refference portfolio
